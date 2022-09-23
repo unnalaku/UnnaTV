@@ -318,6 +318,9 @@ https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(6278b166-9632-4
 #EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/jJTACLd.png?v=1.0.0.1" group-title="KOREA" tvg-id="KBS World HD" tvg-name="KBS World HD", KBS World
 https://vips-livecdn.fptplay.net/sdb/kbs_hls.smil/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/jJTACLd.png?v=1.0.0.1" group-title="KOREA" tvg-id="Sofy TV" tvg-name="Sofy TV", Sofy TV
+https://sofy-ger-samsung.amagi.tv/playlist.m3u8
+
 ########################################################   LIFESTYLE   ########################################################
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
