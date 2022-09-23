@@ -324,6 +324,12 @@ https://sofy-ger-samsung.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/jJTACLd.png?v=1.0.0.1" group-title="KOREA" tvg-id="SBS" tvg-name="SBS", SBS
 http://183.99.22.189:9981/stream/channelid/1124346476
 
+#EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/jJTACLd.png?v=1.0.0.1" group-title="KOREA" tvg-id="SBS CJB" tvg-name="SBS CJB", SBS CJB
+http://1.222.207.80:1935/live/cjbtv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/jJTACLd.png?v=1.0.0.1" group-title="KOREA" tvg-id="YTN" tvg-name="YTN", YTN
+https://allanf181.github.io/adaptive-streams/streams/kr/YTN.m3u8
+
 ########################################################   LIFESTYLE   ########################################################
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
