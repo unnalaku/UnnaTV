@@ -31,10 +31,14 @@ http://hi.hi-back.masuk.web.id:80/c.m3u8?shinta=2022&coday=f846bc691110108f73cb5
 #EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/NTIQcW0.png?v=1.0.0.1" group-title="NASIONAL" tvg-id="Metro TV" tvg-name="Metro TV", Metro TV
 https://cdn4.mbahnunungonline.net/m3u8/id/6183ec225226ccc.m3u8
 
-#EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/1z5pJol.png?v=1.1.1.1" group-title="NASIONAL" tvg-id="Trans 7" tvg-name="Trans 7", Trans7
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1 group-title="TV Nasional Indonesia" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_110.png",Trans 7
 https://liveanevia.mncnow.id/live/eds/Trans7-2/sa_dash_vmx/Trans7-2.mpd
 
-#EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/lQMICXV.png?v=1.0.0.1" group-title="NASIONAL" tvg-id="Trans TV" tvg-name="Trans TV", TransTV
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1 group-title="TV Nasional Indonesia" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_87.png",Trans TV
 https://liveanevia.mncnow.id/live/eds/TransTV-2/sa_dash_vmx/TransTV-2.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -77,14 +81,10 @@ https://liveanevia.mncnow.id/live/eds/BeritaSatu/sa_dash_vmx/BeritaSatu.mpd
 #EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/XBtbPBF.png?v=1.0.0.1" group-title="NASIONAL" tvg-id="TVRI" tvg-name="TVRI", TVRI
 https://liveanevia.mncnow.id/live/eds/PemersatuBangsa/sa_dash_vmx/PemersatuBangsa.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
-#EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/1Mtx9mY.png?v=1.0.0.1" group-title="NASIONAL" tvg-id="CNN Indonesia" tvg-name="CNN Indonesia", CNN Indonesia
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_cnnindonesia_small1.png?v=2.0.0.13" group-title="TV Nasional Indonesia",CNN INDONESIA
 http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w2069650134_b280000_sleng.m3u8
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MGRhNmU1M2UtNGE3Ni0zZGRkLWJhMmQtYTFmMzE2YTRlMTY3
-#EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/uJTTmk8.png?v=1.1.1.1" group-title="NASIONAL" tvg-id="CNBC Indonesia", CNBC Indonesia 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/3/35/CNBC_Indonesia.png" group-title="TV Nasional Indonesia",CNBC INDONESIA
 https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_w1352897452_b280000_sleng.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
